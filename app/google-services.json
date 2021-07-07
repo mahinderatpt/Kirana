@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "84455437774",
+    "project_id": "kirana-7223a",
+    "storage_bucket": "kirana-7223a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84455437774:android:eb867a37d2aa74080ce79f",
+        "android_client_info": {
+          "package_name": "com.mahinder.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84455437774-0qi8n29e51u3vscffbj9e5o37orobjuf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXtIf2QsU7LJF6SvU0rt3ZTUrAzFjY4xI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84455437774-0qi8n29e51u3vscffbj9e5o37orobjuf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
